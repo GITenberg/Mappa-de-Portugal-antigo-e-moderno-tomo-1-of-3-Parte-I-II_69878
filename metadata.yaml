@@ -1,0 +1,38 @@
+_repo: Mappa-de-Portugal-antigo-e-moderno-tomo-1-of-3-Parte-I-II_69878
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castro, João Bautista de
+    aliases:
+    - Castro, Joao Bautista de
+    - De Castro, João Bautista
+    - Baratta, Custódio Jesam
+    - Baratta, Custodio Jesam
+    - Jesam Baratta, Custódio
+    - Castro, Juan Bautista de
+    - Barata, Custodio Jasaõ
+    - Barata, Custodio Jasao
+    birthdate: 1700
+    deathdate: 1775
+    gutenberg_agent_id: '55471'
+    url: http://www.gutenberg.org/2009/agents/55471
+description: ''
+gutenberg_issued: '2023-01-25'
+identifiers:
+  gutenberg: '69878'
+language: pt
+production_note: Rita Farinha and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by National Library
+  of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: 'Lisboa: Na Officina Patriarcal de Francisco Luiz Ameno,1762.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- History'
+- !lcsh 'Portugal -- Geography -- Early works to 1800'
+- !lcsh 'Lisbon (Portugal) -- Description and travel -- Early works to 1800'
+- !lcc 'DP'
+- GITenberg
+title: 'Mappa de Portugal antigo, e moderno, tomo 1 (of 3): Parte I, II'
+url: http://www.gutenberg.org/ebooks/69878
