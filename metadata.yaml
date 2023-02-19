@@ -1,5 +1,8 @@
 _repo: Mappa-de-Portugal-antigo-e-moderno-tomo-1-of-3-Parte-I-II_69878
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69878-h/images/cover.jpg
 creator:
   author:
     agent_name: Castro, João Bautista de
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '55471'
     url: http://www.gutenberg.org/2009/agents/55471
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69878#Mappa-de-Portugal-antigo-e-moderno-tomo-1-of-3-Parte-I-II
 gutenberg_issued: '2023-01-25'
 identifiers:
   gutenberg: '69878'
